@@ -1,4 +1,1 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://plenumskin.com/sitemap.xml
+User-agent: * Allow: / Sitemap: https://plenumskin.com/sitemap.xml
